@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BobRoss</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="counter">0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bob_ross">BobRossClicker</string>
+
+</resources>
